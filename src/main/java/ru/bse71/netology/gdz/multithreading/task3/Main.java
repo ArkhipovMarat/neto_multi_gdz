@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ForkJoinPool;
 
-public class Main {
+class Main {
 
   private static final int ARRAY_SIZE = 10000;
 

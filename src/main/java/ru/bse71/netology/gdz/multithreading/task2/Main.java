@@ -1,6 +1,5 @@
 package ru.bse71.netology.gdz.multithreading.task2;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.Callable;
@@ -8,7 +7,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class Main {
+class Main {
 
   public static long THREAD_PERIOD = 3000;
 

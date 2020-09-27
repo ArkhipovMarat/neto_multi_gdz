@@ -1,6 +1,6 @@
 package ru.bse71.netology.gdz.synchronization.task2;
 
-public class GarconThread extends Thread {
+class GarconThread extends Thread {
 
   Restaurant restaurant;
 

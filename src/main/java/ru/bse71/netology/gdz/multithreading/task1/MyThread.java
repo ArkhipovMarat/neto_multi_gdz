@@ -2,7 +2,7 @@ package ru.bse71.netology.gdz.multithreading.task1;
 
 import static ru.bse71.netology.gdz.multithreading.task2.Main.THREAD_PERIOD;
 
-public class MyThread extends Thread {
+class MyThread extends Thread {
 
   public MyThread(ThreadGroup group, String name) {
     super(group, name);

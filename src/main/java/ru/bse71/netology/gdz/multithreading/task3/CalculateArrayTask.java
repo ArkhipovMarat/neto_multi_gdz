@@ -2,7 +2,7 @@ package ru.bse71.netology.gdz.multithreading.task3;
 
 import java.util.concurrent.RecursiveTask;
 
-public class CalculateArrayTask extends RecursiveTask<Integer> {
+class CalculateArrayTask extends RecursiveTask<Integer> {
 
   int[] targetArray;
   int startPosition;

@@ -1,6 +1,6 @@
 package ru.bse71.netology.gdz.synchronization.task1;
 
-public class Dish {
+class Dish {
   private final Order order;
 
   Dish(Order order) {

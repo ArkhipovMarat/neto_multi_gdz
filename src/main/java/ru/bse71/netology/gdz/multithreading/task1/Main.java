@@ -1,6 +1,6 @@
 package ru.bse71.netology.gdz.multithreading.task1;
 
-public class Main {
+class Main {
 
   public static long THREAD_PERIOD = 3000;
   public static long THREAD_RUNNING_TIME = 15000;

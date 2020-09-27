@@ -4,7 +4,7 @@ import static ru.bse71.netology.gdz.multithreading.task2.Main.THREAD_PERIOD;
 
 import java.util.concurrent.Callable;
 
-public class MyCallable implements Callable<Integer> {
+class MyCallable implements Callable<Integer> {
   int iterCount;
 
   public MyCallable(int iterCount) {

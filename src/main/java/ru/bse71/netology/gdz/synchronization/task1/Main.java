@@ -1,6 +1,6 @@
 package ru.bse71.netology.gdz.synchronization.task1;
 
-public class Main {
+class Main {
 
   private static final int VISITOR_COUNT = 5;
   private static final long VISITOR_PERIOD = 2000;

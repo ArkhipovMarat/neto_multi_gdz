@@ -1,6 +1,6 @@
 package ru.bse71.netology.gdz.synchronization.task2;
 
-public class CookThread extends Thread {
+class CookThread extends Thread {
 
   private static final int COOK_TIME = 3000;
 

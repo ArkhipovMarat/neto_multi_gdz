@@ -1,6 +1,6 @@
 package ru.bse71.netology.gdz.synchronization.task1;
 
-public class Order {
+class Order {
   private final VisitorThread visitor;
 
   public Order(VisitorThread visitor) {

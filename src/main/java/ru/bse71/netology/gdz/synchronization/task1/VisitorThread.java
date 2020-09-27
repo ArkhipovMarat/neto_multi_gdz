@@ -4,7 +4,7 @@ import static ru.bse71.netology.gdz.synchronization.task1.VisitorStatus.*;
 
 import java.util.Objects;
 
-public class VisitorThread extends Thread {
+class VisitorThread extends Thread {
 
   private static final long ORDER_WAIT = 3000;
   private static final long EAT_WAIT = 3000;

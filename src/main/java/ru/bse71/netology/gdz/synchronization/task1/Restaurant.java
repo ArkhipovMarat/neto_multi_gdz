@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Set;
 
-public class Restaurant {
+class Restaurant {
 
   private static final long COOK_TIME = 3000;
 
